@@ -1,14 +1,14 @@
-# Hello world! ![Hello world gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32px" height="32px"> Hello world
 
 **My name is Silvio Paganini**
 
 **Technical Director / Fullstack + Blockchain Engineer, AI Creative Generative Systems and pipelines.**
 
 - 🌍  I'm based in ~~London (UK) Amsterdam (Netherlands) Bali (Indonesia)~~ São Paulo (Brazil)
-- 🖥️  See my portfolio at [Portfolio](https://s2paganini.com)
-- ✉️  You can contact me at [s2paganini@gmail.com](mailto:s2paganini@gmail.com)
+- 🖥️  See my portfolio at [s2paganini.com](https://s2paganini.com)
+- ✉️  You can contact me at [silvio@fluuu.id](mailto:silvio@fluuu.id)
 - 🚀  I'm currently working on [mgxs.co](https://mem.mgxs.co)
-- 🧠  I'm learning Generative AI
+- 🧠  I'm learning Generative AI, StableDiffusion, AI pipelines
 
 ### Skills 
 
