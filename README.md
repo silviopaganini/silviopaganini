@@ -7,8 +7,8 @@
 - 🌍  I'm based in ~~London (UK) Amsterdam (Netherlands) Bali (Indonesia)~~ São Paulo (Brazil)
 - 🖥️  See my portfolio at [s2paganini.com](https://s2paganini.com)
 - ✉️  You can contact me at [silvio@fluuu.id](mailto:silvio@fluuu.id)
-- 🚀  I'm currently working on [mgxs.co](https://mem.mgxs.co)
-- 🧠  I'm learning Generative AI, StableDiffusion, AI pipelines
+- 🚀  I'm currently working on [mgxs.co](https://mem.mgxs.co) and [BCG X](https://bcg.com/x)
+- 🧠  Currently researching and playing aroung with Generative AI, StableDiffusion, AI pipelines
 
 ### Skills 
 
